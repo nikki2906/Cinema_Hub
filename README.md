@@ -27,9 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="[https://static01.bbi.io/2Wt9Tk.gif](https://imgur.com/a/t0vxub8)"/>
-
-!(Video Walkthrough)[Video Walk Through](https://imgur.com/a/t0vxub8)]
+[Video Walk Through](https://imgur.com/a/t0vxub8)]
 GIF created with Kap  
 
 ## Notes
