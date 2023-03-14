@@ -29,11 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="[https://static01.bbi.io/2Wt9Tk.gif](https://imgur.com/a/t0vxub8)"/>
 
-!(Video Walkthrough)[[https://static01.bbi.io/2Wt9Tk.gif](https://imgur.com/a/t0vxub8)]
-
-<img src="https://imgur.com/a/t0vxub8" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
+!(Video Walkthrough)[Video Walk Through](https://imgur.com/a/t0vxub8)]
 GIF created with Kap  
 
 ## Notes
