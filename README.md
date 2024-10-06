@@ -1,10 +1,6 @@
 # Project 3 - Flixster
 
-Submitted by: Nhi Huynh
-
-Flixter 3 is a movie browsing app that will use hardcoded Movie data models to display mocked data.
-
-Time spent: 20 hours spent in total
+Flixter is a movie browsing app that will use hardcoded Movie data models to display mocked data.
 
 ## Required Features
 
